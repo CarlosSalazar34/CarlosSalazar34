@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Carlos Salazar
 
-<!--
-**CarlosSalazar34/CarlosSalazar34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador frontend | backend | full stack | data analyst  
+📍 Caracas, Venezuela  
+🚀 Apasionado por Python, el desarrollo web y la inteligencia artificial
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy estudiante de **Ingeniería Informática**, con interés en el desarrollo web, las bases de datos y el análisis de datos con Python.
+
+Actualmente:
+- 🌱 Aprendiendo: React Native, PostgreSQL, Flutter, TypeScript
+- 🎯 Objetivo: Frontend Engineer
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes**
+- JavaScript | Python | SQL | HTML | CSS
+
+**Frameworks / Librerías**
+- React | Flask | FastAPI | Tailwind CSS | Pandas | Matplotlib | Numpy |
+
+**Herramientas**
+- Git & GitHub
+- VS Code
+- Windows
+- Bash
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: carloseliassalazaryunes@gmail.com  
+- 🌐 Portfolio: https://carlossalazarapp.vercel.app
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
