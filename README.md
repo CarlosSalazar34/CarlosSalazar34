@@ -10,6 +10,23 @@
 
 Soy estudiante de **Ingeniería Informática**, con interés en el desarrollo web, las bases de datos y el análisis de datos con Python.
 
+```js
+const aboutMe = {
+    name: "Carlos Salazar",
+    profession: "Software Engineer",
+    country: "Venezuela",
+    city: "Caracas",
+    habilities: {
+        backend: ['Python, FastAPI, Flask'],
+        frontend: ['JavaScript, React, React Native'],
+        dataBase: ['PostgreSQL', 'sqlite3', 'MySQL'],
+        dataAnalysis: ['Pandas', 'Numpy', 'Matplotlib']
+    },
+    languages: ['Spanish', 'English'],
+    freeToJob: true
+}
+```
+
 Actualmente:
 - 🌱 Aprendiendo: React Native, PostgreSQL, Flutter, TypeScript
 - 🎯 Objetivo: Frontend Engineer
