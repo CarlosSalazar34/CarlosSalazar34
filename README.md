@@ -13,7 +13,6 @@ Soy estudiante de **Ingeniería Informática**, con interés en el desarrollo we
 ```js
 const aboutMe = {
     name: "Carlos Salazar",
-    profession: "Software Engineer",
     country: "Venezuela",
     city: "Caracas",
     habilities: {
