@@ -17,8 +17,8 @@ const aboutMe = {
     country: "Venezuela",
     city: "Caracas",
     habilities: {
-        backend: ['Python, FastAPI, Flask'],
-        frontend: ['JavaScript, React, React Native'],
+        backend: ['Python', 'FastAPI', 'Flask', 'Pydactic'],
+        frontend: ['JavaScript', 'React', 'HTML', 'CSS', 'tailwind'],
         dataBase: ['PostgreSQL', 'sqlite3', 'MySQL'],
         dataAnalysis: ['Pandas', 'Numpy', 'Matplotlib']
     },
