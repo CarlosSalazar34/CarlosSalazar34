@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Carlos Salazar
 
-💻 Desarrollador frontend | backend | full stack | data analyst  
+💻 Desarrollador frontend | backend | full stack | data analyst | Mobile
 📍 Caracas, Venezuela  
 🚀 Apasionado por Python, el desarrollo web y la inteligencia artificial
 
