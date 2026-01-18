@@ -38,7 +38,7 @@ Actualmente:
 - JavaScript | Python | SQL | HTML | CSS
 
 **Frameworks / Librerías**
-- React | Flask | FastAPI | Tailwind CSS | Pandas | Matplotlib | Numpy |
+- React | React Native | Flask | FastAPI | Tailwind CSS | Pandas | Matplotlib | Numpy |
 
 **Herramientas**
 - Git & GitHub
