@@ -17,7 +17,7 @@ const aboutMe = {
     city: "Caracas",
     habilities: {
         backend: ['Python', 'FastAPI', 'Flask', 'Pydactic'],
-        frontend: ['JavaScript', 'React', 'HTML', 'CSS', 'tailwind'],
+        frontend: ['JavaScript', 'React', 'React Native', 'HTML', 'CSS', 'tailwind'],
         dataBase: ['PostgreSQL', 'sqlite3', 'MySQL'],
         dataAnalysis: ['Pandas', 'Numpy', 'Matplotlib']
     },
@@ -27,7 +27,7 @@ const aboutMe = {
 ```
 
 Actualmente:
-- 🌱 Aprendiendo: React Native, PostgreSQL, Flutter, TypeScript
+- 🌱 Aprendiendo: PostgreSQL, TypeScript
 - 🎯 Objetivo: Frontend Engineer
 
 ---
