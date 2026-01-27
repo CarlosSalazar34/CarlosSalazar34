@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Carlos Salazar
 
-💻 Desarrollador frontend | backend | full stack | data analyst | Mobile | 
-🤖 Integraciones con AI | OpenAI | gemini | n8n |
+💻 Desarrollador frontend | backend | full stack | data analyst | Mobile |                        
+🤖 Integraciones con AI | OpenAI | gemini | n8n |                                            
 📍 Caracas, Venezuela  
 🚀 Apasionado por Python, el desarrollo web y la inteligencia artificial
 
