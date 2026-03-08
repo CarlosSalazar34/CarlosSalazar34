@@ -54,6 +54,6 @@ Actualmente:
 
 - 📧 Email: carloseliassalazaryunes@gmail.com  
 - 🌐 Portfolio: https://carlossalazarapp.vercel.app
-
+- 🏢 linkedin: www.linkedin.com/in/carlossalazaryunes
 ---
 
