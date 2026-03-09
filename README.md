@@ -30,8 +30,6 @@ const aboutMe = {
 
 Actualmente:
 - 🌱 Aprendiendo: PostgreSQL, TypeScript
-- 🎯 Objetivo: Frontend Engineer
-
 ---
 
 ## 🛠️ Tecnologías y herramientas
