@@ -35,7 +35,7 @@ Actualmente:
 ## 🛠️ Tecnologías y herramientas
 
 **Lenguajes**
-- JavaScript | Python | C++ | SQL | HTML | CSS
+- JavaScript | Python | C++ | SQL | HTML | CSS |
 
 **Frameworks / Librerías**
 - React | React Native | Flask | FastAPI | Tailwind CSS | Pandas | Matplotlib | Numpy |
