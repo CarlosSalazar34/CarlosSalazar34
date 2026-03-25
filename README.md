@@ -18,7 +18,7 @@ const aboutMe = {
     city: "Caracas",
     habilities: {
         backend: ['Python', 'FastAPI', 'Flask', 'Pydactic'],
-        frontend: ['JavaScript', 'React', 'React Native', 'HTML', 'CSS', 'tailwind', 'TypeScript'],
+        frontend: ['JavaScript', 'TypeScript', 'React', 'React Native', 'HTML', 'CSS', 'tailwind'],
         dataBase: ['PostgreSQL', 'sqlite3', 'MySQL'],
         dataAnalysis: ['Pandas', 'Numpy', 'Matplotlib'],
         others: ['C++']
