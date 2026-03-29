@@ -19,6 +19,7 @@ const aboutMe = {
     habilities: {
         backend: ['Python', 'FastAPI', 'Flask', 'Pydactic'],
         frontend: ['JavaScript', 'TypeScript', 'React', 'React Native', 'HTML', 'CSS', 'Tailwind CSS'],
+        mobile: ['Flutter', 'Dart'],
         dataBase: ['PostgreSQL', 'sqlite3', 'MySQL'],
         dataAnalysis: ['Pandas', 'Numpy', 'Matplotlib'],
         others: ['C++']
