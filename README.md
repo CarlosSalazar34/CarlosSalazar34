@@ -125,5 +125,5 @@ const aboutMe = {
 </p>
 
 <p align="center">
-  <i>"El éxito es la suma de pequeños esfuerzos repetidos día tras día."</i>
+  <i>"Hablar es barato, muestrame el codigo. Linus Torvalds"</i>
 </p>
