@@ -26,7 +26,7 @@
 
 ## <p align="center">🧠 Sobre mí</p>
 
-Soy estudiante de **Ingeniería Informática**, apasionado por resolver problemas complejos mediante el desarrollo de software y el análisis de datos. Actualmente me enfoco en profundizar mis conocimientos en bases de datos y arquitecturas modernas.
+Soy estudiante de **Ingeniería Informática en la UCAB** (2do semestre), con una trayectoria de **5 años programando** y explorando el mundo de la tecnología. Me apasiona crear soluciones mediante el **desarrollo web**, el **desarrollo backend** y las **bases de datos**. Además, tengo un gran interés por el **análisis de datos** y las **automatizaciones potenciadas por IA**.
 
 <details>
 <summary><b>🔍 Ver mi perfil técnico (JS Object)</b></summary>
@@ -36,6 +36,8 @@ const aboutMe = {
     name: "Carlos Salazar",
     country: "Venezuela",
     city: "Caracas",
+    education: "Ingeniería Informática @ UCAB (2do semestre)",
+    experience: "5 años programando",
     skills: {
         backend: ['Python', 'FastAPI', 'Flask', 'SQL'],
         frontend: ['JavaScript', 'TypeScript', 'React', 'Tailwind CSS'],
