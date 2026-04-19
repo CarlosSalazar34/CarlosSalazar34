@@ -1,42 +1,63 @@
-# 👋 ¡Hola! Soy Carlos Salazar
+# <p align="center">👋 ¡Hola! Soy Carlos Salazar</p>
 
-💻 Desarrollador frontend | backend | full stack | data analyst | Mobile |                        
-🤖 Integraciones con AI | OpenAI | gemini | n8n |                                            
-📍 Caracas, Venezuela  
-🚀 Apasionado por Python, el desarrollo web y la inteligencia artificial
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack+🚀;Data+Analyst+📊;Entusiasta+de+la+IA+🤖;Especialista+en+Python+🐍" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  💻 Frontend | Backend | Full Stack | Data Analyst | Mobile | Integraciones con AI
+</p>
+
+<p align="center">
+  📍 Caracas, Venezuela 🇻🇪
+</p>
 
 ---
 
-## 🧠 Sobre mí
+## <p align="center">📊 Mis Estadísticas</p>
 
-Soy estudiante de **Ingeniería Informática**, con interés en el desarrollo web, las bases de datos y el análisis de datos con Python.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosSalazar34&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="CarlosSalazar34 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSalazar34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosSalazar34&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## <p align="center">🧠 Sobre mí</p>
+
+Soy estudiante de **Ingeniería Informática**, apasionado por resolver problemas complejos mediante el desarrollo de software y el análisis de datos. Actualmente me enfoco en profundizar mis conocimientos en bases de datos y arquitecturas modernas.
+
+<details>
+<summary><b>🔍 Ver mi perfil técnico (JS Object)</b></summary>
 
 ```js
 const aboutMe = {
     name: "Carlos Salazar",
     country: "Venezuela",
     city: "Caracas",
-    habilities: {
-        backend: ['Python', 'FastAPI', 'Flask', 'Pydactic'],
-        frontend: ['JavaScript', 'TypeScript', 'React', 'React Native', 'HTML', 'CSS', 'Tailwind CSS'],
-        mobile: ['Flutter', 'Dart'],
-        dataBase: ['PostgreSQL', 'sqlite3', 'MySQL'],
-        dataAnalysis: ['Pandas', 'Numpy', 'Matplotlib'],
-        others: ['C++']
+    skills: {
+        backend: ['Python', 'FastAPI', 'Flask', 'SQL'],
+        frontend: ['JavaScript', 'TypeScript', 'React', 'Tailwind CSS'],
+        mobile: ['Flutter', 'Dart', 'React Native'],
+        data: ['PostgreSQL', 'Pandas', 'NumPy'],
+        ai: ['OpenAI', 'Gemini', 'n8n']
     },
     languages: ['Spanish', 'English'],
-    freeToJob: true
+    openToOpportunities: true
 }
 ```
+</details>
 
-Actualmente:
-- 🌱 Aprendiendo: PostgreSQL, TypeScript
 ---
 
-## 🛠️ Tecnologías y herramientas
+## <p align="center">🛠️ Tecnologías y herramientas</p>
 
-### 🌐 Frontend
-<p align="left">
+### <p align="center">🌐 Frontend</p>
+<p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -45,23 +66,23 @@ Actualmente:
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
-### ⚙️ Backend
-<p align="left">
+### <p align="center">⚙️ Backend</p>
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
-### 📱 Mobile
-<p align="left">
+### <p align="center">📱 Mobile</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
 </p>
 
-### 📊 Data Science & DB
-<p align="left">
+### <p align="center">📊 Data Science & DB</p>
+<p align="center">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
@@ -70,23 +91,40 @@ Actualmente:
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### 🛠️ Herramientas
-<p align="left">
+### <p align="center">🛠️ Herramientas</p>
+<p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Antigravity-AI-blueviolet?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity" />
 </p>
 
 ---
 
-## 📫 Contacto
+## <p align="center">🐍 Mi Historial de Contribuciones</p>
 
-- 📧 Email: carloseliassalazaryunes@gmail.com  
-- 🌐 Portfolio: https://carlossalazarapp.vercel.app
-- 🏢 linkedin: www.linkedin.com/in/carlossalazaryunes
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlosSalazar34/CarlosSalazar34/output/github-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
+## <p align="center">📫 Contacto</p>
+
+<p align="center">
+  <a href="mailto:carloseliassalazaryunes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlossalazaryunes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://carlossalazarapp.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252a33?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"El éxito es la suma de pequeños esfuerzos repetidos día tras día."</i>
+</p>
