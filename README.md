@@ -16,10 +16,10 @@
 
 ## <p align="center">📊 Mis Estadísticas</p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosSalazar34&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="CarlosSalazar34 GitHub stats" />
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CarlosSalazar34&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="CarlosSalazar34 GitHub stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSalazar34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosSalazar34&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
