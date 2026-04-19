@@ -126,5 +126,6 @@ const aboutMe = {
 
 <p align="center">
   <i>"Talk is cheap, show me the code." - Linus Torvalds</i>
+  <br/>
   <i>"Hablar es barato, muestrame el codigo." - Linus Torvalds</i>
 </p>
