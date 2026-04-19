@@ -1,4 +1,4 @@
-# <p align="center">👋 ¡Hola! Soy Carlos Salazar</p>
+# <p align="center">👋 Hi! I'm Carlos Salazar</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=200&color=3670A0&center=true&vCenter=true&width=500&lines=FullStack+Developer+🚀;Data+Analyst+📊;IA+Developer+🤖;Python+Specialist+🐍;React+Developer+🌐" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 ---
 
-## <p align="center">📊 Mis Estadísticas</p>
+## <p align="center">📊 My stats</p>
 
 
 <p align="center">
@@ -24,20 +24,20 @@
 
 ---
 
-## <p align="center">🧠 Sobre mí</p>
+## <p align="center">🧠 About me</p>
 
-Soy estudiante de **Ingeniería Informática en la UCAB** (2do semestre), con una trayectoria de **5 años programando** y explorando el mundo de la tecnología. Me apasiona crear soluciones mediante el **desarrollo web**, el **desarrollo backend** y las **bases de datos**. Además, tengo un gran interés por el **análisis de datos** y las **automatizaciones potenciadas por IA**.
+I am a student of **Computer Science at UCAB** (2nd semester), with a trajectory of **5 years programming** and exploring the world of technology. I am passionate about creating solutions through **web development**, **backend development**, and **databases**. Additionally, I have a great interest in **data analysis** and **AI-powered automations**.
 
 <details>
-<summary><b>🔍 Ver mi perfil técnico (JS Object)</b></summary>
+<summary><b>🔍 View my technical profile (JS Object)</b></summary>
 
 ```js
 const aboutMe = {
     name: "Carlos Salazar",
     country: "Venezuela",
     city: "Caracas",
-    education: "Ingeniería Informática @ UCAB (2do semestre)",
-    experience: "5 años programando",
+    education: "Computer Science @ UCAB (2nd semester)",
+    experience: "5 years programming",
     skills: {
         backend: ['Python', 'FastAPI', 'Flask', 'SQL'],
         frontend: ['JavaScript', 'TypeScript', 'React', 'Tailwind CSS'],
@@ -53,7 +53,7 @@ const aboutMe = {
 
 ---
 
-## <p align="center">🛠️ Tecnologías y herramientas</p>
+## <p align="center">🛠️ Technologies and tools</p>
 
 ### <p align="center">🌐 Frontend</p>
 <p align="center">
@@ -90,7 +90,7 @@ const aboutMe = {
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### <p align="center">🛠️ Herramientas</p>
+### <p align="center">🛠️ Tools</p>
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -102,7 +102,7 @@ const aboutMe = {
 
 ---
 
-## <p align="center">📈 Actividad de Contribuciones</p>
+## <p align="center">📈 Contribution Activity</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosSalazar34&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
@@ -110,7 +110,7 @@ const aboutMe = {
 
 ---
 
-## <p align="center">📫 Contacto</p>
+## <p align="center">📫 Contact</p>
 
 <p align="center">
   <a href="mailto:carloseliassalazaryunes@gmail.com" target="_blank">
@@ -125,5 +125,6 @@ const aboutMe = {
 </p>
 
 <p align="center">
+  <i>"Talk is cheap, show me the code." - Linus Torvalds</i>
   <i>"Hablar es barato, muestrame el codigo." - Linus Torvalds</i>
 </p>
