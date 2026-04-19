@@ -43,7 +43,7 @@ const aboutMe = {
         frontend: ['JavaScript', 'TypeScript', 'React', 'Tailwind CSS'],
         mobile: ['Flutter', 'Dart', 'React Native'],
         data: ['PostgreSQL', 'Pandas', 'NumPy'],
-        ai: ['OpenAI', 'Gemini', 'n8n']
+        ai: ['OpenAI', 'Gemini']
     },
     languages: ['Spanish', 'English'],
     openToOpportunities: true
