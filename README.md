@@ -103,10 +103,10 @@ const aboutMe = {
 
 ---
 
-## <p align="center">🧱 Mi Actividad en 3D</p>
+## <p align="center">📈 Actividad de Contribuciones</p>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=CarlosSalazar34" alt="3D Profile Contrib" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosSalazar34&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
