@@ -125,5 +125,5 @@ const aboutMe = {
 </p>
 
 <p align="center">
-  <i>"Hablar es barato, muestrame el codigo. Linus Torvalds"</i>
+  <i>"Hablar es barato, muestrame el codigo." - Linus Torvalds</i>
 </p>
