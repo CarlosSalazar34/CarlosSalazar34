@@ -17,7 +17,7 @@
 ## <p align="center">📊 Mis Estadísticas</p>
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=CarlosSalazar34&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="CarlosSalazar34 GitHub stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosSalazar34&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSalazar34&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -103,10 +103,10 @@ const aboutMe = {
 
 ---
 
-## <p align="center">🐍 Mi Historial de Contribuciones</p>
+## <p align="center">🧱 Mi Actividad en 3D</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CarlosSalazar34/CarlosSalazar34/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=CarlosSalazar34" alt="3D Profile Contrib" />
 </p>
 
 ---
