@@ -1,7 +1,7 @@
 # <p align="center">👋 ¡Hola! Soy Carlos Salazar</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Desarrollador+FullStack+🚀;Data+Analyst+📊;IA+Developer+🤖;Especialista+en+Python+🐍;React+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=200&color=3670A0&center=true&vCenter=true&width=500&lines=FullStack+Developer+🚀;Data+Analyst+📊;IA+Developer+🤖;Python+Specialist+🐍;React+Developer+🌐" alt="Typing SVG" />
 </p>
 
 <p align="center">
