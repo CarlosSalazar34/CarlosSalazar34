@@ -39,7 +39,7 @@ const aboutMe = {
     education: "Computer Science @ UCAB (2nd semester)",
     experience: "5 years programming",
     skills: {
-        backend: ['Python', 'FastAPI', 'Flask', 'SQL'],
+        backend: ['Python', 'FastAPI', 'Flask', 'SQL', 'SQLAlchemy'],
         frontend: ['JavaScript', 'TypeScript', 'React', 'Tailwind CSS'],
         mobile: ['Flutter', 'Dart', 'React Native'],
         data: ['PostgreSQL', 'Pandas', 'NumPy'],
@@ -71,6 +71,7 @@ const aboutMe = {
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
 </p>
 
 ### <p align="center">📱 Mobile</p>
