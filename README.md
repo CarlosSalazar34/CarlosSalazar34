@@ -79,6 +79,7 @@ const aboutMe = {
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 ### <p align="center">📊 Data Science & DB</p>
