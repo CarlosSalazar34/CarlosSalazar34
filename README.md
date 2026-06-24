@@ -40,7 +40,7 @@ const aboutMe = {
     experience: "5 years programming",
     skills: {
         backend: ['Python', 'FastAPI', 'Flask', 'SQL', 'SQLAlchemy', 'SQLModel'],
-        frontend: ['JavaScript', 'TypeScript', 'React', 'Tailwind CSS'],
+        frontend: ['JavaScript', 'TypeScript', 'React', 'Tailwind CSS', 'Astro'],
         mobile: ['Flutter', 'Dart', 'React Native'],
         data: ['PostgreSQL', 'Pandas', 'NumPy'],
         ai: ['OpenAI', 'Gemini']
@@ -63,6 +63,7 @@ const aboutMe = {
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
 </p>
 
 ### <p align="center">⚙️ Backend</p>
