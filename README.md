@@ -52,7 +52,7 @@ const aboutMe = {
     name: "Carlos Salazar",
     location: "Caracas, Venezuela",
     education: "Computer Science @ UCAB",
-    experience: "5 years programming",
+    experience: "6 years programming",
     skills: {
         backend: ['FastAPI', 'Flask', 'Python', 'SQL', 'SQLAlchemy', 'SQLModel'],
         frontend: ['Astro', 'JavaScript', 'Next.js', 'React', 'Tailwind CSS', 'TypeScript'],
