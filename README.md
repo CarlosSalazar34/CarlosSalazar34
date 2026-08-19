@@ -71,9 +71,9 @@ const aboutMe = {
 
 ## <p align="center">📊 GitHub stats</p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ruby-pi.vercel.app?user=CarlosSalazar34&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlosSalazar34&show_icons=true&theme=tokyonight&hide_border=true&card_width=350" alt="GitHub Stats" />
