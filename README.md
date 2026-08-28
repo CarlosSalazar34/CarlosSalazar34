@@ -24,7 +24,7 @@
 
 ## <p align="center">🧠 About me</p>
 
-Computer Science student at **UCAB** with **6 years programming**. I build web and mobile products end to end — **Python/FastAPI** on the backend, **React/Next.js** on the frontend — and I'm especially into **data analysis** and **AI-powered automation**.
+Computer Science student at **UCAB** with **4 years programming**. I build web and mobile products end to end — **Python/FastAPI** on the backend, **React/Next.js** on the frontend — and I'm especially into **data analysis** and **AI-powered automation**.
 
 🌱 Currently going deeper into system design and AI agents · 💬 Ask me about Python, FastAPI, React or Next.js · 📂 My work lives in my [portfolio](https://carlossalazarapp.vercel.app)
 
@@ -80,9 +80,9 @@ const aboutMe = {
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=CarlosSalazar34&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosSalazar34&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
 
 ---
 
