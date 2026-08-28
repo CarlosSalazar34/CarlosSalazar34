@@ -52,7 +52,7 @@ const aboutMe = {
     name: "Carlos Salazar",
     location: "Caracas, Venezuela",
     education: "Computer Science @ UCAB",
-    experience: "6 years programming",
+    experience: "4 years programming",
     skills: {
         backend: ['FastAPI', 'Flask', 'Python', 'SQL', 'SQLAlchemy', 'SQLModel'],
         frontend: ['Astro', 'JavaScript', 'Next.js', 'React', 'Tailwind CSS', 'TypeScript'],
@@ -83,6 +83,16 @@ const aboutMe = {
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosSalazar34&theme=tokyonight&area=true&hide_border=true" alt="Activity Graph" />
 </p> -->
+
+## <p align="center">🐍 Contribution snake</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosSalazar34/CarlosSalazar34/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosSalazar34/CarlosSalazar34/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/CarlosSalazar34/CarlosSalazar34/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
 
 ---
 
