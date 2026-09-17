@@ -54,7 +54,7 @@ const aboutMe = {
     education: "Computer Science @ UCAB",
     experience: "4 years programming",
     skills: {
-        backend: ['FastAPI', 'Flask', 'Python', 'SQL', 'SQLAlchemy', 'SQLModel'],
+        backend: ['FastAPI', 'Flask', 'Java', 'Python', 'SQL', 'SQLAlchemy', 'SQLModel'],
         frontend: ['Astro', 'JavaScript', 'Next.js', 'React', 'Tailwind CSS', 'TypeScript'],
         mobile: ['Dart', 'Flutter', 'React Native', 'Expo'],
         data: ['NumPy', 'Pandas', 'PostgreSQL', 'MySQL', 'SQLite', 'Matplotlib'],
