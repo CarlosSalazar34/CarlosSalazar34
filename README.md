@@ -44,8 +44,7 @@ Computer Science student at **UCAB** with **4 years programming**. I build web a
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
-<details>
-<summary align="center"><b>🔍 Full technical profile (JS Object)</b></summary>
+<p align="center"><b>🔍 Full technical profile</b></p>
 
 ```js
 const aboutMe = {
@@ -65,7 +64,6 @@ const aboutMe = {
     openToOpportunities: true
 }
 ```
-</details>
 
 ---
 
